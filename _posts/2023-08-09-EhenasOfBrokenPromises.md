@@ -3,6 +3,10 @@ title: "Ehena Of Broken Promises"
 author: "S.R. Weaver"
 tags: archive poetry harmonicminor
 ---
+## Video Version Instrumental
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9QTIOtKBLrk?si=TRqWVAICY1baL2Vr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Ehena Of Broken Promises
 In the farmyard<br />
 where the angels sing chanson,<br />
 she resides<br />
