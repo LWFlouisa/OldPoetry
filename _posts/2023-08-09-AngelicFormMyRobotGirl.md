@@ -4,7 +4,7 @@ author: "S.R. Weaver"
 tags: archive poetry
 ---
 ## VIDEO FORMAT
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S9utyGXZu34?si=MwTkcD7cWCfKVo9B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe title="Angel Form My Robot Girl" src="https://video.ploud.jp/videos/embed/18d70b36-9aa3-4365-823d-0c34559ab3a3" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
 
 ## ANGEL FORM, MY ROBOTIC GIRL
 My robot girl,<br />
