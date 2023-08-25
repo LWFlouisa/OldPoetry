@@ -26,21 +26,21 @@ Avec une bougie pour le mort.<br />
 Pour mere Marie, c'est la mere de Jesus.
 
 ## English
-For mother Mary, it is the mother of Jesus.
-You with her cut the water.
-You with her in the mountain.
+For mother Mary, it is the mother of Jesus.<br />
+You with her cut the water.<br />
+You with her in the mountain.<br />
 You with her a la mere de Jesus.
 
-Many thanks mother.
-Many thanks mere de Jesus.
+Many thanks mother.<br />
+Many thanks mere de Jesus.<br />
 For Mary, how are you?
 
-For mother Mary, it is the mother of Jesus.
-You with her cut the water.
-You with her in the mountain.
+For mother Mary, it is the mother of Jesus.<br />
+You with her cut the water.<br />
+You with her in the mountain.<br />
 Vou with her on the guillotine.
 
-Many thanks mother.
+Many thanks mother.<br />
 Many thanks mere de Jesus.
 For Mary, how are you?
 
