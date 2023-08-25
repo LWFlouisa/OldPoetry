@@ -3,7 +3,7 @@ title: "Angel Form My Robot Girl"
 author: "S.R. Weaver"
 tags: archive poetry
 ---
-## VIDEO FORMAT
+## VIDEO VERSION
 <iframe title="Angel Form My Robot Girl" src="https://video.ploud.jp/videos/embed/18d70b36-9aa3-4365-823d-0c34559ab3a3" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
 
 ## ANGEL FORM, MY ROBOTIC GIRL
