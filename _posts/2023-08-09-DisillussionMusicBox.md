@@ -3,6 +3,10 @@ title: "Disillussion Music Box"
 author: "S.R. Weaver"
 tags: musicbox disillussionment
 ---
+## VIDEO FORMAT
+<iframe title="Dillussionment Music Box [ Whisper Singing ]" src="https://video.ploud.jp/videos/embed/d91461f9-5ec9-4545-9db5-6ba4cdc5fb16" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+
+## DISILLUSSIONMENT MUSIC BOX
 Dying inside, within<br />
 Inside the mind I rest<br />
 Slowly under skin<br />
