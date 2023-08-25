@@ -4,7 +4,7 @@ author: "S.R. Weaver"
 tags: archive poetry
 ---
 ## VIDEO FORMAT
-<iframe title="Chant De Fleur" src="https://video.ploud.jp/videos/embed/447c5dea-d33f-4198-aed8-3341b91d8c8a" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+<iframe title="Chant De Fleur [ Whisper Singing ]" src="https://video.ploud.jp/videos/embed/3f570f97-3ca8-4403-87e3-00c49196183d" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
 
 ## Chant De Fleur
 Chains on fence give suspence.<br />
