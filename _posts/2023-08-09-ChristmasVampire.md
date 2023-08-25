@@ -3,6 +3,10 @@ title: "Christmas Vampire"
 author: "S.R. Weaver"
 tags: christmas vampire
 ---
+## VIDEO VERSIOn
+<iframe title="Christmas Vampire" src="https://video.ploud.jp/videos/embed/0bc9e6e1-9f2a-4762-a014-8d88f670ae39" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+
+## CHRISTMAS VAMPIRE
 With her white dress<br />
 She dangled down the chimney.<br />
 With her white dress,<br />
