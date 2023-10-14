@@ -3,6 +3,12 @@ title: "Goose Girl Of Broken Dreams"
 author: "S.R. Weaver"
 tags: archive poetry
 ---
+## Goose Girl Of Broken Dreams
+<audio controls>
+  <source src="https://lwflouisa.github.io/OldPoetry/Audio/EhenaOfBrokenPromises.mp3">
+Your browser does not support the audio element.
+</audio>
+
 VERSE<br />
 In a dream I'm flying,<br />
 Into hills made of<br />
