@@ -4,6 +4,8 @@ author: "S.R. Weaver"
 tags: archive poetry
 ---
 ## Goose Girl Of Broken Dreams
+![Goose Girl](https://github.com/LWFlouisa/OldPoetry/blob/main/images/PoodleSkirtAndSteelToes3.png?raw=true)
+
 <audio controls>
   <source src="https://lwflouisa.github.io/OldPoetry/Audio/EhenaOfBrokenPromises.mp3">
 Your browser does not support the audio element.
