@@ -4,10 +4,6 @@ author: "S.R. Weaver"
 tags: archive poetry harmonicminor
 ---
 ## Instrumental Version
-<audio controls>
-  <source src="https://lwflouisa.github.io/OldPoetry/Audio/EhenaOfBrokenPromises.mp3">
-Your browser does not support the audio element.
-</audio>
 
 ## Ehena Of Broken Promises
 In the farmyard<br />
